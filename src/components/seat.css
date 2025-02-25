@@ -97,7 +97,7 @@
   
   /* Day background */
   .day-background {
-    background-image: url('d:\React-pro - Copy\React-pro - Copy\myproject\build\images\sunny.jpg');
+    background-image: url('/public/images/sunny.jpg');
     background-size: cover;
     background-position: center;
     height: auto; /* Adjust height as needed */
@@ -105,7 +105,7 @@
   
   /* Night background */
   .night-background {
-    background-image: url('d:\React-pro - Copy\React-pro - Copy\myproject\build\images\night.jpg');
+    background-image: url('/public/images/night.jpg');
     background-size: cover;
     background-position: center;
     height: auto; /* Adjust height as needed */
